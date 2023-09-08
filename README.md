@@ -9,7 +9,7 @@ sudo unshare -pf -n --mount-proc bash
 
 ps -afx
 
-https://github.com/SokolikAA/container1/blob/4a39255d74558fae39c8d6cd5ec7d48083a53e5e/Screen1.JPG
+https://raw.githubusercontent.com/SokolikAA/container1/main/Screen1.JPG
 
 
 
