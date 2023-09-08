@@ -37,5 +37,9 @@ sudo unshare -u bash
 hostname homework1
 
 Эта команда никак не затронула хост основной системы. 
+
+![Screen1](https://github.com/SokolikAA/container1/assets/115178275/d9408114-1ebe-4a89-a5a6-ebde19dd6931)
+
 Проверяем из основной системы:
 
+![Screen3](https://github.com/SokolikAA/container1/assets/115178275/2c67a2b6-acf3-4ab6-869c-67199b7f615f)
