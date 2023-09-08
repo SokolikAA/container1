@@ -6,6 +6,8 @@
 sudo unshare -pf -n --mount-proc bash
 
 Посмотрим получилось ли у нас изолировать и какие процессы запущенны:
+![Screen1](https://github.com/SokolikAA/container1/assets/115178275/d9408114-1ebe-4a89-a5a6-ebde19dd6931)
+
 
 ps -afx
 
